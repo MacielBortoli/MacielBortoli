@@ -6,10 +6,10 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=macielbortoli&show_icons=true&count_private=true&hide_border=true&title_color=7e01ac&icon_color=7e01ac&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Maciel github stats" /> 
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=macielbortoli&theme=dracula&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=macielbortoli&theme=bear&hide_border=true&area=true)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=macielbortoli&theme=bear&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=macielbortoli&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
