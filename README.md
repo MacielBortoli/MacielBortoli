@@ -14,6 +14,7 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/bortoli.png/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+ <a href="[https://www.linkedin.com/in/macielbortoli/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=Linkedin&logoColor=white"</a>
 </div>
   
 
@@ -33,7 +34,8 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 ### Others Skills:
-
+![PhotoShop](https://img.shields.io/badge/-PhotoShop-0D1117?style=for-the-badge&logo=HTML5&logoColor=e44d26&labelColor=0D1117)&nbsp;
+ ![Ilustrator](https://img.shields.io/badge/-Ilustrator-0D1117?style=for-the-badge&logo=HTML5&logoColor=e44d26&labelColor=0D1117)&nbsp;
   
 ### Study Skills:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
