@@ -35,7 +35,7 @@
 
 ### Others Skills:
 ![PhotoShop](https://img.shields.io/badge/-PhotoShop-0D1117?style=for-the-badge&logo=adobe&logoColor=044379&labelColor=0D1117)&nbsp;
- ![Ilustrator](https://img.shields.io/badge/-Ilustrator-0D1117?style=for-the-badge&logo=HTML5&logoColor=e44d26&labelColor=0D1117)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Ilustrator-0D1117?style=for-the-badge&logo=adobe&logoColor=d28715&labelColor=0D1117)&nbsp;
   
 ### Study Skills:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
