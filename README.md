@@ -34,7 +34,7 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 ### Others Skills:
-![PhotoShop](https://img.shields.io/badge/-PhotoShop-0D1117?style=for-the-badge&logo=Ps&logoColor=e44d26&labelColor=0D1117)&nbsp;
+![PhotoShop](https://img.shields.io/badge/-PhotoShop-0D1117?style=for-the-badge&logo=Photoshop&logoColor=e44d26&labelColor=0D1117)&nbsp;
  ![Ilustrator](https://img.shields.io/badge/-Ilustrator-0D1117?style=for-the-badge&logo=HTML5&logoColor=e44d26&labelColor=0D1117)&nbsp;
   
 ### Study Skills:
