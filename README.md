@@ -6,7 +6,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=macielbortoli&show_icons=true&count_private=true&hide_border=true&title_color=7e01ac&icon_color=7e01ac&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Maciel github stats" /> 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MacielBortoli&bg_color=292929&color=ffffff&line=670460&point=ff00ea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MacielBortoli&bg_color=292929&color=ffffff&line=4d0047&point=ff00ea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
 <a href="https://www.instagram.com/bortoli.png/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
