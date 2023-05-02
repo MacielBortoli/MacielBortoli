@@ -9,9 +9,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MacielBortoli&bg_color=0d1117&color=ffffff&line=4d0047&point=ff00ea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-<a href="https://www.instagram.com/bortoli.png/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%232C3454?style=for-the-badge&logo=instagram&logoColor=Blue"</a>
- <a href="https://www.linkedin.com/in/macielbortoli/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%232C3454?style=for-the-badge&logo=Linkedin&logoColor=Blue"</a>
- <a href="https://www.linkedin.com/in/macielbortoli/" target="_blank"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"</a>
+<a href="https://www.instagram.com/bortoli.png/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%232C3454?style=for-the-badge&logo=instagram&logoColor=0D1117"</a>
+ <a href="https://www.linkedin.com/in/macielbortoli/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%232C3454?style=for-the-badge&logo=Linkedin&logoColor=0D1117"</a>
 </div>
 
 ### Main skills:
