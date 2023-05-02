@@ -1,4 +1,4 @@
-[<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e01ac&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e01ac&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7e01ac&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Eduardo+Maciel+de+Bortoli;Eu+tenho+21+anos+de+idade;Sou+de+Jaraguá,+SC;Eu+Estudo+Engenharia+de+Software+na+Catolica;Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
@@ -11,7 +11,7 @@
 <div align="center">  
 <a href="https://www.instagram.com/bortoli.png/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
  <a href="https://www.linkedin.com/in/macielbortoli/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=Linkedin&logoColor=white"</a>
- <a href="https://www.linkedin.com/in/macielbortoli/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"</a>
+ <a href="https://www.linkedin.com/in/macielbortoli/" target="_blank"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"</a>
 </div>
 
 ### Main skills:
@@ -38,5 +38,3 @@
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e01ac&height=120&section=footer"/>
-](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue
-)
