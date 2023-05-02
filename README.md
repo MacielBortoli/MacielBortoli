@@ -9,8 +9,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MacielBortoli&bg_color=0d1117&color=ffffff&line=4d0047&point=ff00ea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-<a href="https://www.instagram.com/bortoli.png/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%0d1117?style=for-the-badge&logo=instagram&logoColor=white"</a>
- <a href="https://www.linkedin.com/in/macielbortoli/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%0d1117?style=for-the-badge&logo=Linkedin&logoColor=white"</a>
+<a href="https://www.instagram.com/bortoli.png/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%000000?style=for-the-badge&logo=instagram&logoColor=white"</a>
+ <a href="https://www.linkedin.com/in/macielbortoli/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%00000?style=for-the-badge&logo=Linkedin&logoColor=white"</a>
 </div>
 
 <div align="center">
