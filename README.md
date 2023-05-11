@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4C00AD&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e01ac&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4C00AD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Eduardo+Maciel+de+Bortoli;Eu+tenho+21+anos+de+idade;Sou+de+Jaraguá,+SC;Eu+Estudo+Engenharia+de+Software+na+Catolica;Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7e01ac&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Eduardo+Maciel+de+Bortoli;Eu+tenho+21+anos+de+idade;Sou+de+Jaraguá,+SC;Eu+Estudo+Engenharia+de+Software+na+Catolica;Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=macielbortoli&show_icons=true&count_private=true&hide_border=true&title_color=4C00AD&icon_color=4C00AD&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Maciel github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=macielbortoli&show_icons=true&count_private=true&hide_border=true&title_color=7e01ac&icon_color=7e01ac&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Maciel github stats" /> 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MacielBortoli&bg_color=4C00AD&color=ffffff&line=7e01ac&point=ff00ea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MacielBortoli&bg_color=0d1117&color=ffffff&line=7e01ac&point=ff00ea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
 <a href="https://www.instagram.com/bortoli.png/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%232C3454?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -16,10 +16,10 @@
 </div>
 
 ### Main skills:
-![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=e44d26&labelColor=4C00AD)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=4C00AD)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=4C00AD&textColor=4C00AD)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=4C00AD&textColor=4C00AD)&nbsp; 
+![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=e44d26&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp; 
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -33,6 +33,7 @@
 ![PhotoShop](https://img.shields.io/badge/-PhotoShop-0D1117?style=for-the-badge&logo=adobe&logoColor=044379&labelColor=0D1117)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Ilustrator-0D1117?style=for-the-badge&logo=adobe&logoColor=d28715&labelColor=0D1117)&nbsp;
   
+
 ### Study Skills:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
