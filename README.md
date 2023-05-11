@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e01ac&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4C00AD&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7e01ac&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Eduardo+Maciel+de+Bortoli;Eu+tenho+21+anos+de+idade;Sou+de+Jaraguá,+SC;Eu+Estudo+Engenharia+de+Software+na+Catolica;Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
